@@ -21,10 +21,10 @@
 title: 02806 WE ARE GROUP28
 email: s232900@dtu.dk
 description: |- # this means to ignore newlines until "baseurl:"
-baseurl: "/02806-group28.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/world-cup-ml-predictor" # the subpath of your site, e.g. /blog
 url: "https://zouge666.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  zouge666
+github_username: zouge666
 
 # Build settings
 theme: jekyll-theme-midnight

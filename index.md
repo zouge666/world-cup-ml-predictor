@@ -80,8 +80,6 @@ title: FIFA Gossip
     </a>
 </div>
 
----
-
 # Let's Play a game first!
 
 <!-- ——— Rumor Quiz —— -->

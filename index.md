@@ -119,8 +119,6 @@ title: FIFA Gossip
   });
 </script>
 
-<!-- ———————————————————————— -->
-
 Why is this the case? Keep reading!
 
 ---
